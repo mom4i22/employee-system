@@ -1,0 +1,1 @@
+Employee management system made with Java/Spring Boot and React.js. This is just a very basic practice project where you can add a new employee, edit one or delete it. And of course you can view all of the employees. As I said, this is just a practice, there is no validation, authentication and so on...Just wanted to get a feel of how you can call services to the frontend.
